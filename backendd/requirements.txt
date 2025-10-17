@@ -1,0 +1,12 @@
+matplotlib 
+tesseract
+cv2
+pytesseract
+numpy
+Pillow
+flask
+flask-cors
+gunicorn
+sqlalchemy
+
+flask_sqlalchemy
